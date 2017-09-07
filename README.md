@@ -1,4 +1,4 @@
 # IQTools
 Reporting and Data Mining Tools
 
-http://iqtools.azurewebsite.net
+http://iqtools.azurewebsites.net
